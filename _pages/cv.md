@@ -11,13 +11,14 @@ redirect_from:
 
 Professional Experience
 ======
-* **Data Science Manager, Enterprise Holdings (Feb - June 2020)**
+* **Data Science Manager, [Enterprise Holdings](https://www.enterpriseholdings.com/en/index.html) (Feb - June 2020)**
 
   * Lead a team of research data scientists at EHI’s Center of Excellence in Data Science working to design, execute, and implement analytical solutions to support and grow various business units in the area of revenue management, risk modeling, and marketing analytics.
   * Provide technical expertise to help drive the execution of data science projects including science and code reviews to ensure sound methodologies in data wrangling, model development, validation measures and model deployment plans.
   * Serve as a data science business partner providing direct support, leadership and connection between data scientists, strategic analysts and assigned operational business units to drive the application of and generate opportunities for data science into business processes.
 
-* **Senior Data Scientist - Technical Lead, Bayer Crop Science (Nov 2019 - Feb 2020)**
+
+* **Senior Data Scientist - Technical Lead, [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (Nov 2019 - Feb 2020)**
 
    *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting and growth stage modeling, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
    *  Partner with a global team of domain experts and business leaders to define the content and roadmap of analytics strategy, and serve as a liaison between technical teams and business leaders to translate the value of analytics models and identify business use cases.
@@ -25,7 +26,7 @@ Professional Experience
    *   Define best practices for modeling work including data integrity, data science best practice (e.g. version control and code-review), model quality and documentation of analytics development.
 
 
-* **Data Scientist, Bayer Crop Science (May 2016 - Nov 2019)**
+* **Data Scientist, [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (May 2016 - Nov 2019)**
 
    * Delivered analytics solutions for the supply chain organization by developing an end-to-end pipeline from data ingestion, model selection and validation, to reporting for business partners.
    * Independently responsible for technical tasks including data wrangling, exploratory analyses, data querying (e.g. using different internal API’s and database query), model building and validation, code refactoring,
@@ -41,13 +42,15 @@ Professional Experience
    * Supported the model development for numerous microbial field trials by analyzing the ranking consistency of microbial products, and geospatial properties of the fitted results across a set of different models.
 
 
-* **Research Intern, Medical College of Wisconsin (part-time Jan 2012 - Jan 2014)**
+* **Research Intern, [Medical College of Wisconsin](https://www.mcw.edu/) (part-time Jan 2012 - Jan 2014)**
 
-  * Worked closely with the Human and Molecular Genetics Center to develop quantitative algorithms to select genetic markers associated with early-onset type one diabetes based on data from human clinical trials.
+  * Worked closely with researchers at the Max McGee Research Center for Juvenile Diabetes to develop quantitative algorithms to select genetic markers associated with early-onset type one diabetes based on data from human clinical trials.
   * Provided technical support for progress reports for grants, clinical programs, and academic journal articles.
 
 
 * **Research Assistant, University of Wisconsin- Milwaukee (2014)**
+
+
   * Designed, implemented, and evaluated an Expectation Maximization (EM)-based parameter estimation
 algorithm for correlated random field with missing observations.
   * Presented at mathematical conferences and participated at several applied math workshops.
