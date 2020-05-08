@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sami Furst (Cheong), Ph.D _Curriculum Vitae_"
+title: "Sami Furst (Cheong), Ph.D"
 permalink: /cv/
 author_profile: true
 redirect_from:
