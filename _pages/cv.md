@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Sami Furst (Cheong), Ph.D _Curriculum Vitae_"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -59,7 +59,7 @@ Education
 * **Master of Business Administration, Olin Business School, Washington University in St. Louis (Dec 2019)**
 
  * _Consulting experience:_ Taylor community project partnered with UnitedWay to provide consulting services for local non-profit facing business issues and problems.
- 
+
 
 * **Ph.D, Mathematics, University of Wisconsin - Milwaukee**
 
