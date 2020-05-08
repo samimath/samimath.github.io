@@ -18,24 +18,27 @@ Professional Experience
   * Serve as a data science business partner providing direct support, leadership and connection between data scientists, strategic analysts and assigned operational business units to drive the application of and generate opportunities for data science into business processes.
 
 * **Senior Data Scientist - Technical Lead, Bayer Crop Science (Nov 2019 - Feb 2020)**
- *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting and growth stage modeling, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
- *  Partner with a global team of domain experts and business leaders to define the content and roadmap of analytics strategy, and serve as a liaison between technical teams and business leaders to translate the value of analytics models and identify business use cases.
- *   Provide technical leadership and supervision for a team of data scientists on data requirements, modeling approach, validation, statistical analyses, visualization and documentation.
- *   Define best practices for modeling work including data integrity, data science best practice (e.g. version control and code-review), model quality and documentation of analytics development.
+
+   *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting and growth stage modeling, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
+   *  Partner with a global team of domain experts and business leaders to define the content and roadmap of analytics strategy, and serve as a liaison between technical teams and business leaders to translate the value of analytics models and identify business use cases.
+   *   Provide technical leadership and supervision for a team of data scientists on data requirements, modeling approach, validation, statistical analyses, visualization and documentation.
+   *   Define best practices for modeling work including data integrity, data science best practice (e.g. version control and code-review), model quality and documentation of analytics development.
+
 
 * **Data Scientist, Bayer Crop Science (May 2016 - Nov 2019)**
 
- * Delivered analytics solutions for the supply chain organization by developing an end-to-end pipeline from data ingestion, model selection and validation, to reporting for business partners.
- * Independently responsible for technical tasks including data wrangling, exploratory analyses, data querying (e.g. using different internal API’s and database query), model building and validation, code refactoring,
-building multiple visualization tools, and documentation.
- * Learned and assessed analytics platforms such as Domino data lab, AWS, Datarobot and Sagemaker.
- * Organized internal data science educational programs such as Python data wrangling workshops, participated in data science hackathon, and presented at internal symposiums and conferences.
+   * Delivered analytics solutions for the supply chain organization by developing an end-to-end pipeline from data ingestion, model selection and validation, to reporting for business partners.
+   * Independently responsible for technical tasks including data wrangling, exploratory analyses, data querying (e.g. using different internal API’s and database query), model building and validation, code refactoring,
+  building multiple visualization tools, and documentation.
+   * Learned and assessed analytics platforms such as Domino data lab, AWS, Datarobot and Sagemaker.
+   * Organized internal data science educational programs such as Python data wrangling workshops, participated in data science hackathon, and presented at internal symposiums and conferences.
+
 
 * **Analytics Co-Op, Monsanto Co. (Jan - July 2015)**
 
- * Developed a change-point detection model for Monsanto’s first IoT platform to assess data quality for combine harvesters, and mitigate data loss of plot information due to device failure.
- * Supported the deployment of real-time anomaly detection algorithm in FieldDrive’s framework through collaboration with IT, engineering and analytics teams.
- * Supported the model development for numerous microbial field trials by analyzing the ranking consistency of microbial products, and geospatial properties of the fitted results across a set of different models.
+   * Developed a change-point detection model for Monsanto’s first IoT platform to assess data quality for combine harvesters, and mitigate data loss of plot information due to device failure.
+   * Supported the deployment of real-time anomaly detection algorithm in FieldDrive’s framework through collaboration with IT, engineering and analytics teams.
+   * Supported the model development for numerous microbial field trials by analyzing the ranking consistency of microbial products, and geospatial properties of the fitted results across a set of different models.
 
 
 * **Research Intern, Medical College of Wisconsin (part-time Jan 2012 - Jan 2014)**
@@ -56,12 +59,15 @@ Education
 * **Master of Business Administration, Olin Business School, Washington University in St. Louis (Dec 2019)**
 
  * _Consulting experience:_ Taylor community project partnered with UnitedWay to provide consulting services for local non-profit facing business issues and problems.
+ 
 
 * **Ph.D, Mathematics, University of Wisconsin - Milwaukee**
 
  * _Dissertation:_ [Parameter Estimation for Spatial Sampling Schemes with Missing Observations](https://dc.uwm.edu/cgi/viewcontent.cgi?article=2131&context=etd)
 
+
 * **M.S., Mathematics, University of Wisconsin - Milwaukee**
+
  * _Thesis_: A Study of the Mathematical Modeling of Translation Initiation in Protein Synthesis.
 
 
