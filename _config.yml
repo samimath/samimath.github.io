@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sami Furst"
-  avatar           : "profile2.png"
-  bio              : "Learning life one day at a time"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
   location         :
   employer         :
   pubmed           :
