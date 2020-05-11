@@ -4,7 +4,10 @@ main:
 
   - title: "About"
     url: /about/
-
+    
+  - title: "Work"
+    url: /work/
+    
   - title: "Blog Posts"
     url: /year-archive/
 
@@ -15,7 +18,7 @@ main:
     url: /cv/
 
   - title: "Cats"
-    url: /cats/
+    url: /cats/    
 
   - title: "Contact"
     url: /contact/
