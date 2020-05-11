@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Cats"
-excerpt: "Cats"
+permalink: /cats/
 author_profile: true
 redirect_from:
-  - /cats/
-  - /cats.html
+  - /cats
 ---
 
-Under construction!
+Under Construction!
