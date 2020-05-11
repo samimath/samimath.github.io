@@ -4,10 +4,22 @@ title: "Portfolio"
 permalink: /contact/
 author_profile: true
 ---
+<!-- modify this form HTML and place wherever you want your form -->
 
-{% include base_path %}
+<form
+  action="https://formspree.io/xeqrozpb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
+  <!-- your other form fields go here -->
 
-{% for post in site.contact %}
-  {% include archive-single.html %}
-{% endfor %}
+  <button type="submit">Send</button>
+</form>
