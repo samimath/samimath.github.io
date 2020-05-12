@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cats"
+title: "Cats, Cats everywhere"
 permalink: /cats/
 author_profile: true
 ---
@@ -99,13 +99,25 @@ body {
     max-width: 100%;
   }
 }
+
+.zoom {
+  transition: transform .2s; /* Animation */
+  width: 100%;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+</style>
+
 </style>
 <body>
 
 <!-- Header -->
-<div class="header">
-  <h1>Cats, cats everywhere</h1>
-  <h3> Random cat photos I've taken from home and afar (Hover over image to see caption)</h3>
+<div class="title">
+  <h1>Random cat photos I've taken from home and afar (Hover over image to see caption) </h1>
+  
 </div>
 
 <!-- Photo Grid -->
@@ -134,7 +146,9 @@ body {
     </div>
 
     <div class="container">
+
         <img src="https://github.com/samimath/samimath.github.io/blob/master/images/cat16.jpg?raw=true" alt = "cat16" style="width:100%" class = 'image'>
+
         <div class="middle">
           <div class="text">Gangster cat roaming in a park (Istanbul, Turkey)</div>
         </div>
