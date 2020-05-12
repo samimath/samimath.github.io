@@ -44,6 +44,44 @@ body {
   width: 100%;
 }
 
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .column {
@@ -72,13 +110,18 @@ body {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-    <img src="/images/cat1.jpg" style="width:100%">
-    <img src="/images/cat2.jpg" style="width:100%">
-    <img src="/images/cat3.jpg" style="width:100%">
-    <img src="/images/cat4.jpg" style="width:100%">
-    <img src="/images/cat5.jpg" style="width:100%">
-    <img src="/images/cat6.jpg" style="width:100%">
-    <img src="/images/cat7.jpg" style="width:100%">
+    <div class = "container">
+      <img src="/images/cat1.jpg" style="width:100%">
+      <div class = "middle">
+        <div class = "text"> Our airbnb host cat "Daugher" in Istanbul </div>
+        </div>
+    </div>
+    <div class = "container">
+      <img src="/images/cat2.jpg" style="width:100%">
+      <div class = "middle">
+        <div class = "text"> Another nice shot of "Daugher"</div>
+        </div>
+    </div>
   </div>
   <div class="column">
     <img src="/images/cat8.jpg" style="width:100%">
