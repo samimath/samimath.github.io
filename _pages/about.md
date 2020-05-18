@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Learn by doing"
-excerpt: "A personal site about learning new skills and sharing random things"
+title: "Sami Furst"
+excerpt: "A personal site on learning by doing"
 author_profile: true
 redirect_from:
   - /about/
@@ -20,6 +20,6 @@ header:
 
 # Hey there!
 
-My name is a Sami, I'm currently working as a data scientist with training in math, and music. This is my personal website where I share a bit more about my background and interests, as well as resources on things I enjoy learning.
+My name is a Sami, I'm currently working as a data scientist with training in math, and music. This is my personal website where I share a bit more about my background and interests, as well as resources on things I enjoy learning. Check out
 
 I am originally from Macau, a tiny (6 square miles) seaside city in South Eastern China that is now known as Vegas in the East due to its large gambling and tourism industry. Historical fun fact : Macau is simultaneously [the first and the last European colony in Asia](https://www.chicagotribune.com/news/ct-xpm-1999-12-22-9912220059-story.html).
