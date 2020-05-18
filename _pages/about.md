@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 header:
-  overlay_image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fwater-blue-ocean-5412%2F&psig=AOvVaw1eFRqqv0H7U9UZNoByzd6C&ust=1589911935155000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDuidOBvukCFQAAAAAdAAAAABAD
+  overlay_image: ../images/water-blue-ocean.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Jaymantri**](https://www.pexels.com/)"
   actions:
