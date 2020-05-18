@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Learn by doing"
 excerpt: "A personal site on learning new skills, and sharing random things"
 author_profile: true
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 header:
-  overlay_image: /images/water-blue-ocean.jpg
+  overlay_image: "/images/water-blue-ocean.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Jaymantri**](https://www.pexels.com)"
   actions:
