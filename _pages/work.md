@@ -3,10 +3,7 @@ layout: spalsh
 title: "Work"
 permalink: /work/
 author_profile: true
-header:
-  overlay_image: ../images/brazil.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Flying above São Paulo"
+
 
 header:
   overlay_color: "#000"
