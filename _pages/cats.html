@@ -109,16 +109,47 @@ body {
 .zoom:hover {
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+
+
+.hero {
+    /* Sizing */
+    width: 100vw;
+    height: 60vh;
+
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Text styles */
+    text-align: center;
+    color: white;
+    font-family: Arial;
+
+    font-size: 1.5em;
+    /* Background styles */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../images/lucy.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 </style>
 
 
 <body>
 
-<!-- Header -->
-<div class="title">
-  <p "text-align:left"> Random cat photos I've taken from home and afar (Hover over image to see caption) </p>
 
-</div>
+<section class="hero">
+    <div class="hero-inner">
+        <h1>Random cat photos I've taken from home and afar </h1>
+        <h3>(Hover over image to see caption)</h3>
+    </div>
+</section>
+
+
+
 
 <!-- Photo Grid -->
 <div class="row">
