@@ -1,7 +1,7 @@
 ---
-permalink: /
-title: "Welcome to my personal website"
-excerpt: "Learn by doing"
+permalink: /about/
+title: "Learn by doing"
+excerpt: "A personal site on learning new skills, and sharing random things"
 author_profile: true
 redirect_from:
   - /about/
