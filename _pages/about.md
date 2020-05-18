@@ -6,7 +6,11 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+featuredImage: /images/water-blue-ocean.jpg
 ---
+
+
+
 
 My name is a Sami, I'm currently working as a data scientist with training in math, and classical music. This is my personal website where I share a bit more about my background and interests, as well as resources on  math, statistics, data science and other things that I enjoy learning.
 
