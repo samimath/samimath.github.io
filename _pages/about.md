@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Learn by doing"
-excerpt: "A personal site on learning new skills, and sharing random things"
+title: "Welcome to my personal website"
+excerpt: "Learn by doing"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 
 header:
-  overlay_image: "/images/water-blue-ocean.jpg"
+  overlay_image: /images/water-blue-ocean.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Jaymantri**](https://www.pexels.com)"
+  caption: "Photo credit: [**Jaymantri**](https://www.pexels.com/)"
   actions:
     - label: "More Info"
       url: "https://www.pexels.com"
