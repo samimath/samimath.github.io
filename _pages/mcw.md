@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Coder Girl data science track"
+title: "Medical College of Wisconsin"
 author_profile: true
 redirect_from:
   - /coder-girl/

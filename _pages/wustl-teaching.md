@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Coder Girl data science track"
+title: "Teaching at University College (WUSTL)"
 author_profile: true
 redirect_from:
-  - /coder-girl/
-  - /coder-girl.html
+  - /wustl-teaching/
+  - /wustl-teaching.html
 
 header:
   overlay_image: ../images/corn_field.jpg

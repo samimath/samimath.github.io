@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "Bayer Crop Science"
-- excerpt: "Data Science + IT + R&D"
+title: "Monsanto"
 author_profile: true
 redirect_from:
-  - /bayer/
-  - /bayer.html
+  - /monsanto/
+  - /monsanto.html
 
 header:
   overlay_image: ../images/corn_field.jpg
