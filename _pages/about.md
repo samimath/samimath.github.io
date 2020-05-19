@@ -14,6 +14,26 @@ header:
   actions:
     - label: "More Info"
       url: "https://www.pexels.com"
+
+feature_row:
+    - image_path: ../images/corn_field.jpg
+      alt: "corn field"
+      title: "Work"
+      url: "work"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: ../images/corn_field.jpg
+      alt: "corn field"
+      title: "Blog"
+      url: "year-archive'
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: ../images/fudge_work.jpg
+      alt: "fudge"
+      title: "Cats"
+      url: "cats'
+      btn_label: "Read More"
+      btn_class: "btn--primary"      
 ---
 
 
