@@ -32,4 +32,8 @@ Through an applied math conference I participated during graduate school, I foun
 ## Key skills learned
 
 
-## Medical College of Wisconsin
+# Medical College of Wisconsin
+
+# Volunteering
+
+# Transitioning from academia to industry
