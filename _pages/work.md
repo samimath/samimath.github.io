@@ -14,7 +14,7 @@ feature_row1:
       alt: "corn field"
       title: "Working at Bayer Crop Science (2015 - present)"
       excerpt: "Learn more about my experience working as a data scientist in at Bayer Crop Science"
-      url: "bayer"
+      url: "_pages/bayer"
       btn_label: "Read More"
       btn_class: "btn--primary"
 feature_row2:
@@ -22,7 +22,7 @@ feature_row2:
       alt: "from academia to industry"
       title: "Transitioning from academia to industry"
       excerpt: 'My takeway in navigating the transition from school to work'
-      url: "career-path"
+      url: "_pages/career-path"
       btn_label: "Read More"
       btn_class: "btn--primary"
 feature_row3:
@@ -30,7 +30,7 @@ feature_row3:
       alt: "wustl teaching"
       title: "Teaching at Washington University (2019 - Present)"
       excerpt: 'Part-time position working as a university instructor'
-      url: "wustl-teaching"
+      url: "_pages/wustl-teaching"
       btn_label: "Read More"
       btn_class: "btn--primary"
 feature_row4:
@@ -38,12 +38,12 @@ feature_row4:
     alt: "codergirl"
     title: "Teaching at LaunchCode (2017 - 2019)"
     excerpt: 'Volunteering with an amazing data science community'
-    url: "codergirl"
+    url: "_pages/codergirl"
     btn_label: "Read More"
     btn_class: "btn--primary"  
 feature_row6:
   - image_path: ../images/bayer_ds.png
-    alt: "mcw"
+    alt: "_pages/mcw"
     title: "Working at the Medical College of Wisconsin (2012)"
     excerpt: 'The internship that introduced me to data science'
     url: "mcw"
