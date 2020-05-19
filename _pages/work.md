@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ../images/greens.jpg
-  
+
 feature_row1:
     - image_path: ../images/corn_field.jpg
       alt: "corn field"

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /bayer/
 title: "Bayer Crop Science"
 - excerpt: "Data Science + IT + R&D"
 author_profile: true
