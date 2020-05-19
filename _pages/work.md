@@ -40,15 +40,7 @@ feature_row4:
     excerpt: 'Volunteering with an amazing data science community'
     url: "codergirl"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row5:
-  - image_path: ../images/bayer_ds.png
-    alt: "monsanto"
-    title: "Working at Monsanto Company (2015)"
-    excerpt: 'The internship that brought me to St. Louis'
-    url: "monsanto"
-    btn_label: "Read More"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary"  
 feature_row6:
   - image_path: ../images/bayer_ds.png
     alt: "mcw"
