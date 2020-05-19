@@ -1,9 +1,8 @@
 ---
-layout: spalsh
+layout: splash
 title: "Work"
 permalink: /work/
 author_profile: true
-
 
 header:
   overlay_color: "#000"
