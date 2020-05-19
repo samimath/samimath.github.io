@@ -1,6 +1,6 @@
 ---
-layout: splash
-title: "Work"
+layout: archive
+title: "Things I've Worked on"
 permalink: /work/
 author_profile: true
 
@@ -13,35 +13,35 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Fudge (my cat) trying to help"
 feature_row1:
-  - image_path: ../images/corn_field.jpg
-    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "corn field"
-    title: "Working at Bayer Crop Science (2015 - present)"
-    excerpt: "Learn more about my experience working as a data scientist in at Bayer Crop Science"
-    url: "bayer"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    - image_path: ../images/corn_field.jpg
+      #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+      alt: "corn field"
+      title: "Working at Bayer Crop Science (2015 - present)"
+      excerpt: "Learn more about my experience working as a data scientist in at Bayer Crop Science"
+      url: "bayer"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
 feature_row2:
-  - image_path: ../images/bayer_ds.png
-    alt: "from academia to industry"
-    title: "Transitioning from academia to industry"
-    excerpt: 'My takeway in navigating the transition from school to work'
-    url: "career-path"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: ../images/bayer_ds.png
-    alt: "wustl teaching"
-    title: "Teaching at Washington University (2019 - Present)"
-    excerpt: 'Since Spring 2019, I've been teaching a semester-long class on linear statistical models as part of the MA in Statistics program at Wash U's university college.'
-    url: "wustl-teaching"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    - image_path: ../images/bayer_ds.png
+      alt: "from academia to industry"
+      title: "Transitioning from academia to industry"
+      excerpt: 'My takeway in navigating the transition from school to work'
+      url: "career-path"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
 feature_row3:
+    - image_path: ../images/bayer_ds.png
+      alt: "wustl teaching"
+      title: "Teaching at Washington University (2019 - Present)"
+      excerpt: 'Part-time position working as a university instructor'
+      url: "wustl-teaching"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+feature_row4:
   - image_path: ../images/bayer_ds.png
     alt: "codergirl"
     title: "Teaching at LaunchCode (2017 - 2019)"
-    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science.'
+    excerpt: 'Volunteering with an amazing data science community'
     url: "codergirl"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -52,7 +52,7 @@ feature_row5:
     excerpt: 'The internship that brought me to St. Louis'
     url: "monsanto"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary"    
 feature_row6:
   - image_path: ../images/bayer_ds.png
     alt: "mcw"
@@ -60,14 +60,18 @@ feature_row6:
     excerpt: 'The internship that introduced me to data science'
     url: "mcw"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary"    
+
+
 ---
+
+{% for post in site.posts limit: 8 %}
+  {% include archive-single.html %}
+{% endfor %}
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
@@ -76,3 +80,5 @@ feature_row6:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
