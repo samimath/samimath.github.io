@@ -13,7 +13,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Fudge (my cat) trying to help"
 
-feature_row2:
+feature_row1:
   - image_path: ../images/corn_field.jpg
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "corn field"
@@ -23,26 +23,25 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
 feature_row2:
-  - image_path: ../images/bayer_ds.png
+ - image_path: ../images/bayer_ds.png
     alt: "placeholder image 2"
     title: "Transitioning from academia to industry"
-    excerpt: 'My takeaway'
+    excerpt: 'My takeway in navigating the transition from school to work'
     url: "career-path"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row3:
   - image_path: ../images/bayer_ds.png
     alt: "codergirl"
     title: "Teaching at LaunchCode (2017 - 2019)"
-    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science'
+    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science'Â
     url: "codergirl"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row4:
   - image_path: ../images/bayer_ds.png
     alt: "wustl teaching"
     title: "Teaching at Washington University (2019 - Present)"
@@ -52,7 +51,7 @@ feature_row2:
     btn_class: "btn--primary"
 
 
-feature_row2:
+feature_row5:
   - image_path: ../images/bayer_ds.png
     alt: "monsanto"
     title: "Working at Monsanto Company (2015)"
@@ -61,7 +60,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row6:
   - image_path: ../images/bayer_ds.png
     alt: "mcw"
     title: "Working at the Medical College of Wisconsin (2012)"
@@ -75,8 +74,12 @@ feature_row2:
 
 {% include feature_row %}
 
+{% include feature_row id="feature_row1" type="left" %}
+
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
