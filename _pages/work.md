@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-taxonomy
 title: "Things I've Worked on"
 permalink: /work/
 author_profile: true
