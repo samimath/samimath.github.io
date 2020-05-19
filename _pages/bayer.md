@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /bayer/
 title: "Bayer Crop Science"
 - excerpt: "Data Science + IT + R&D"
