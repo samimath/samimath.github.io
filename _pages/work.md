@@ -7,14 +7,13 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../images/fudge_work.png
+  overlay_image: ../images/fudge_work.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Fudge (my cat) trying to help"
 feature_row1:
     - image_path: ../images/corn_field.jpg
-      #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
       alt: "corn field"
       title: "Working at Bayer Crop Science (2015 - present)"
       excerpt: "Learn more about my experience working as a data scientist in at Bayer Crop Science"
@@ -65,20 +64,19 @@ feature_row6:
 
 ---
 
-{% for post in site.posts limit: 8 %}
-  {% include archive-single.html %}
-{% endfor %}
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row5" type="left" %}
 
-{% include feature_row id="feature_row6" type="left" %}
+{% include feature_row id="feature_row6" type="right" %}
