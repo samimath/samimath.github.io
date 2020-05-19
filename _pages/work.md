@@ -34,17 +34,17 @@ feature_row3:
       btn_label: "Read More"
       btn_class: "btn--primary"
 feature_row4:
-  - image_path: ../images/bayer_ds.png
+  - image_path: ../images/codergirl_shirt.png
     alt: "codergirl"
-    title: "Teaching at LaunchCode (2017 - 2019)"
-    excerpt: 'Volunteering with an amazing data science community'
+    title: "Volunteering at LaunchCode (2017 - 2019)"
+    excerpt: 'Volunteer instructor with an amazing data science community'
     url: "_pages/codergirl"
     btn_label: "Read More"
     btn_class: "btn--primary"  
 feature_row6:
   - image_path: ../images/bayer_ds.png
     alt: "_pages/mcw"
-    title: "Working at the Medical College of Wisconsin (2012)"
+    title: "Interning at the Medical College of Wisconsin (2012)"
     excerpt: 'The internship that introduced me to data science'
     url: "mcw"
     btn_label: "Read More"
