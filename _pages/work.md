@@ -27,7 +27,6 @@ Through a conference I participated during graduate school, I found myself talki
 ## The work
 
 ## The data science community
-<img src="../images/stampedecon.jpg" width="70%">
 
 ## Key skills learned
 
