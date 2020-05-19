@@ -67,3 +67,8 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+
+## Medical College of Wisconsin
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
