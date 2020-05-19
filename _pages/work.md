@@ -15,13 +15,16 @@ img {
   border-radius: 3%;
 }
 </style>
-{% include toc.html html=content %}
 
-<!--# Table of Content
+
+<!--{% include toc.html html=content %} -->
+
+
+# Table of Content
 1. [Bayer Crop Science](#bayer-crop-science)
 2. [Medical College of Wisconsin](#mcw)
 3. [Transitioning from Academia to Industry](#transition)
-4. [Volunteering](#codergirl)-->
+4. [Volunteering](#codergirl)
 
 
 ## Bayer Crop Science <a name="bayer-crop-science"></a>
