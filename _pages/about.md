@@ -14,36 +14,6 @@ header:
   actions:
     - label: "More Info"
       url: "https://www.pexels.com"
-
-feature_row:
-    #work
-  - image_path: ../images/soyfield.jpg
-    #image_caption: "Image courtesy of [pexel](https://pexel.com/)"
-    alt: "work"
-    title: "Work"
-    url: "work"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    # blog posts    
-  - image_path: ../images/macbook.jpg
-    alt: "blog"
-    title: "Blog"
-    url: "year-archive"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    # CV
-  - image_path: ../images/close-up-of-hand-holding-pencil-over-white-background-316466.jpg
-    caption: "Photo credit: [**Lum3n**](https://www.pexels.com)"
-    title: "CV"
-    url: "cv"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    # Cats
-  - image_path: ../images/fuzzyface.jpg
-    title: "Cats"
-    url: "cats"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
@@ -53,5 +23,3 @@ feature_row:
 My name is Sami, I'm currently working as a data scientist with training in math, and music. I am originally from Macau, a tiny seaside city in South Eastern China that is now known as Vegas in the East due to its large gambling and tourism industry. Historical fun fact : Macau is simultaneously [the first and the last European colony in Asia](https://www.chicagotribune.com/news/ct-xpm-1999-12-22-9912220059-story.html). In my spare time, I enjoy being in the outdoors, cooking, playing music, and learning new things.
 
 This website is a personal project for me to finally start documenting things I enjoy doing. You'll find things about exploratory data analysis, machine learning, visualization, and also, cats.
-
-{% include ../_includes/durg_network.html %}
