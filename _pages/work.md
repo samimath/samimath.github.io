@@ -12,7 +12,6 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Fudge (my cat) trying to help"
-
 feature_row1:
   - image_path: ../images/corn_field.jpg
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -22,7 +21,6 @@ feature_row1:
     url: "bayer"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row2:
   - image_path: ../images/bayer_ds.png
     alt: "from academia to industry"
@@ -31,16 +29,6 @@ feature_row2:
     url: "career-path"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_row3:
-  - image_path: ../images/bayer_ds.png
-    alt: "codergirl"
-    title: "Teaching at LaunchCode (2017 - 2019)"
-    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science.'
-    url: "codergirl"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 feature_row4:
   - image_path: ../images/bayer_ds.png
     alt: "wustl teaching"
@@ -49,8 +37,14 @@ feature_row4:
     url: "wustl-teaching"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-
+feature_row3:
+  - image_path: ../images/bayer_ds.png
+    alt: "codergirl"
+    title: "Teaching at LaunchCode (2017 - 2019)"
+    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science.'
+    url: "codergirl"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row5:
   - image_path: ../images/bayer_ds.png
     alt: "monsanto"
@@ -59,7 +53,6 @@ feature_row5:
     url: "monsanto"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row6:
   - image_path: ../images/bayer_ds.png
     alt: "mcw"
