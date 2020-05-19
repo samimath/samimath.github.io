@@ -24,8 +24,8 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
- - image_path: ../images/bayer_ds.png
-    alt: "placeholder image 2"
+  - image_path: ../images/bayer_ds.png
+    alt: "from academia to industry"
     title: "Transitioning from academia to industry"
     excerpt: 'My takeway in navigating the transition from school to work'
     url: "career-path"
@@ -36,7 +36,7 @@ feature_row3:
   - image_path: ../images/bayer_ds.png
     alt: "codergirl"
     title: "Teaching at LaunchCode (2017 - 2019)"
-    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science'Â
+    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science.'
     url: "codergirl"
     btn_label: "Read More"
     btn_class: "btn--primary"
