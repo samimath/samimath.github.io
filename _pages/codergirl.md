@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /coder-girl/
 title: "Coder Girl data science track"
 author_profile: true
 redirect_from:

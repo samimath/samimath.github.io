@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /mcw/
 title: "Medical College of Wisconsin"
 author_profile: true
 redirect_from:
-  - /coder-girl/
-  - /coder-girl.html
+  - /mcw/
+  - /mcw.html
 
 header:
   overlay_image: ../images/corn_field.jpg

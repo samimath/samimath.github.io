@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /career-path/
 title: "Transitioning from academia to industry"
 - excerpt: "Data Science + IT + R&D"
 author_profile: true

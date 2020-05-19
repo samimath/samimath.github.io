@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /wustl-teaching/
 title: "Teaching at University College (WUSTL)"
 author_profile: true
 redirect_from:

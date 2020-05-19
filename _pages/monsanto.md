@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /monsanto/
 title: "Monsanto"
 author_profile: true
 redirect_from:
