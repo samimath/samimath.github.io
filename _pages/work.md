@@ -7,55 +7,68 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../images/bayer_ds.png
+  overlay_image: ../images/fudge_work.png
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
-  - image_path: ../images/bayer_ds.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: ../images/bayer_ds.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: ../images/bayer_ds.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  caption: "Fudge (my cat) trying to help"
+
 feature_row2:
-  - image_path: ../images/bayer_ds.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: ../images/bayer_ds.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: ../images/bayer_ds.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+  - image_path: ../images/corn_field.jpg
+    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "corn field"
+    title: "Working at Bayer Crop Science (2015 - present)"
+    excerpt: "Learn more about my experience working as a data scientist in at Bayer Crop Science"
+    url: "bayer"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+
+feature_row2:
+  - image_path: ../images/bayer_ds.png
+    alt: "placeholder image 2"
+    title: "Transitioning from academia to industry"
+    excerpt: 'My takeaway'
+    url: "career-path"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: ../images/bayer_ds.png
+    alt: "codergirl"
+    title: "Teaching at LaunchCode (2017 - 2019)"
+    excerpt: 'I was a volunteer instructor for LaunchCode's codergirl data science program, along with a few other data scientists in St. Louis, helping teach data science classes in python to an amazing community of women interested in a career in data science'
+    url: "codergirl"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: ../images/bayer_ds.png
+    alt: "wustl teaching"
+    title: "Teaching at Washington University (2019 - Present)"
+    excerpt: 'Since Spring 2019, I've been teaching a semester-long class on linear statistical models as part of the MA in Statistics program at Wash U's university college.'
+    url: "wustl-teaching"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+
+feature_row2:
+  - image_path: ../images/bayer_ds.png
+    alt: "monsanto"
+    title: "Working at Monsanto Company (2015)"
+    excerpt: 'The internship that brought me to St. Louis'
+    url: "monsanto"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: ../images/bayer_ds.png
+    alt: "mcw"
+    title: "Working at the Medical College of Wisconsin (2012)"
+    excerpt: 'The internship that introduced me to data science'
+    url: "mcw"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -67,8 +80,3 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
-
-## Medical College of Wisconsin
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
