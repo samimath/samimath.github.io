@@ -54,4 +54,4 @@ My name is Sami, I'm currently working as a data scientist with training in math
 
 This website is a personal project for me to finally start documenting things I enjoy doing. You'll find things about exploratory data analysis, machine learning, visualization, and also, cats.
 
-{% include durg_network.html %}
+{% include ../_includes/durg_network.html %}
