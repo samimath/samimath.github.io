@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Bayer Crop Science"
+title: "Transitioning from academia to industry"
 - excerpt: "Data Science + IT + R&D"
 author_profile: true
 redirect_from:
-  - /bayer/
-  - /bayer.html
+  - /career-path/
+  - /career-path.html
 
 header:
   overlay_image: ../images/corn_field.jpg
