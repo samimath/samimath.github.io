@@ -15,25 +15,30 @@ img {
   border-radius: 3%;
 }
 </style>
+{% include toc.html html=content %}
 
-{% include toc %}
+<!--# Table of Content
+1. [Bayer Crop Science](#bayer-crop-science)
+2. [Medical College of Wisconsin](#mcw)
+3. [Transitioning from Academia to Industry](#transition)
+4. [Volunteering](#codergirl)-->
 
-# Bayer Crop Science
+
+## Bayer Crop Science <a name="bayer-crop-science"></a>
 
 Through an applied math conference I participated during graduate school, I found myself talking with someone from Monsanto (former company name, now acquired by Bayer) and got to learn more about the digital revolution that is happening agriculture. Statistics, experimental design and data analysis had long been the backbone of agriculture, the difference now is that we have much more data, and tools that allow us to experiment, and make decisions using large scale of data. So it makes a lot of sense that a large ag tech company would to data science as one of its pillaers.
 
-
 <img src="../images/corn_field.jpg" width="100%">
 
-## The work
+### The work
 
-## The data science community
+### The data science community
 
-## Key skills learned
+### Key skills learned
 
 
-# Medical College of Wisconsin
+## Medical College of Wisconsin <a name="mcw"></a>
 
-# Volunteering
+## Volunteering <a name="codergirl"></a>
 
-# Transitioning from academia to industry
+## Transitioning from academia to industry <a name="transition"></a>
