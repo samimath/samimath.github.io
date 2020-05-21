@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Sami Furst"
-excerpt: "A personal site on learning by doing"
 author_profile: true
 redirect_from:
   - /about/
