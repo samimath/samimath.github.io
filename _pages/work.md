@@ -63,23 +63,12 @@ The University of Wisconsin - Milwaukee (my alma mater) and the Medical College 
 
 **What it's like to work there?**
 
- The main problem our group was trying to solve was to identify a set of genes that would be informative for early onset type 1 diabetes. One of the main challenge in here is the [**curse of dimensionality**](https://en.wikipedia.org/wiki/Curse_of_dimensionality) - working with tens of thousands of gene expression features based on a very limited samples, as is a common in many clinical studies at the time. I researched and implemented multiple feature selection algorithms using Gaussian mixture modeling and random forest, as well as short time-series methods to understand the relationship between progression of T1D overtime as a function of different genes.  
+ The main problem our group was trying to solve was to identify a set of genes that would be informative for early onset type 1 diabetes. One of the main challenge in here is the [**curse of dimensionality**](https://en.wikipedia.org/wiki/Curse_of_dimensionality) - working with tens of thousands of gene expression features based on very limited samples, as is common in many clinical studies at the time. I researched and implemented multiple feature selection algorithms using Gaussian mixture modeling and random forest, as well as short time-series methods to understand the relationship between progression of T1D overtime as a function of different genes.  
 
 <img src="../images/t1d_intro.png" width="80%" height = '30%' align = 'center'>
 
  As a part-time intern, I was assigned a specific project with well-defined goal. I got a chance to work closely with some of the research staff, lots of guidance from the principal investigator, but also freedom to try things out. Through this internship our group was able to publish a paper on this work, present at multiple conferences. For me, it was a great experience that paved the way to my career in data science and analytics.
 
-## Transitioning from academia to industry <a name="transition"></a>
-
-*Note*: This is by no means a guide to a job search, but just a summary of my experience as a mathematician working in industry.
-
-**Why?**
-
-Truth to be told, I had very little idea what I wanted to be when I grow up. I've always enjoyed math, and music, which is what I studied in college, but beyond that I didn't have a clue what the next steps should be. In my junior and senior years, I got to work as an undergraduate research assistant for a psychology professor working on color vision research. That changed things a bit for me, I got a sense of what it was like to do research, which helped me make the decision to pursue graduate studies. While I enjoyed very much the academic atmosphere, and got to work with many wonderful people, I decided that I'd prefer to apply my skills in the industry for two reasons :
-
- 1.  The process for getting a tenure-track position is grueling, and extremely competitive, and often comes with trade-offs in opportunities for career advancement and years of financially security. For example, here are some good articles that describe what [it takes to land a tenure-track position](https://community.chronicle.com/news/1775-i-found-a-tenure-track-job-here-s-what-it-took)
-
- - crafting the questions, doing literature review, critically iterating on the problem-solution space by many, many trial and errors, and sharing your results hoping that this made a small progress on a getting the results reviewed critically. began thinking that graduate school would be a viable option, and so I decided to pursue a PhD in mathematics.
 
 ## Volunteering <a name="codergirl"></a>
 
