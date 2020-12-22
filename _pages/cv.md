@@ -19,16 +19,11 @@ header:
 
 Professional Experience
 ======
-* **Data Science Manager, [Enterprise Holdings](https://www.enterpriseholdings.com/en/index.html) (Feb - June 2020)**
 
-  * Lead a team of research data scientists at EHI’s Center of Excellence in Data Science working to design, execute, and implement analytical solutions to support and grow various business units in the area of revenue management, risk modeling, and marketing analytics.
-  * Provide technical expertise to help drive the execution of data science projects including science and code reviews to ensure sound methodologies in data wrangling, model development, validation measures and model deployment plans.
-  * Serve as a data science business partner providing direct support, leadership and connection between data scientists, strategic analysts and assigned operational business units to drive the application of and generate opportunities for data science into business processes.
+* **Senior Data Scientist - Technical Lead, [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (Nov 2019 - Present)**
 
-
-* **Senior Data Scientist - Technical Lead, [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (Nov 2019 - Feb 2020)**
-
-   *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting and growth stage modeling, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
+   *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting, growth stage modeling and planting and harvest optimization models, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
+   * Serves as a technical manager for a team of data scientists, with responsibilities in mapping technical skills of a team to the actual tasks, as well as workflow management, resource planning, and building our team's project portfolio.  
    *  Partner with a global team of domain experts and business leaders to define the content and roadmap of analytics strategy, and serve as a liaison between technical teams and business leaders to translate the value of analytics models and identify business use cases.
    *   Provide technical leadership and supervision for a team of data scientists on data requirements, modeling approach, validation, statistical analyses, visualization and documentation.
    *   Define best practices for modeling work including data integrity, data science best practice (e.g. version control and code-review), model quality and documentation of analytics development.
