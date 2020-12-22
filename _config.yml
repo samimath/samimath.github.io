@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sami Furst"
+title                    : "Sami Cheong"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sami Furst"
+  name             : "Sami Cheong"
   avatar           : "profile2.png"
   bio              :
   location         :
