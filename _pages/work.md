@@ -20,10 +20,12 @@ img {
 <!--{% include toc.html html=content %} -->
 
 
-# Table of Content<a name = "toc"></a>
+# My professionoal journey so far <a name = "toc"></a>
 1. [Bayer Crop Science](#bayer-crop-science)
-2. [Medical College of Wisconsin](#mcw)
-3. [Volunteering](#codergirl)
+2. [Enterprise Holdings](#enterprise)
+3. [Teaching at Wash U](#washu)
+4. [Medical College of Wisconsin (Internshp)](#mcw)
+5. [Volunteering with LaunchCode](#codergirl)
 
 
 ## Bayer Crop Science <a name="bayer-crop-science"></a>
@@ -31,6 +33,8 @@ img {
 
 
 <img src="../images/corn_field.jpg" width="80%" height = '30%' align = 'center' caption = 'Walking through a corn field that had just been harvested'>
+
+##
 
 **What it's like to work there?**
 
@@ -52,6 +56,17 @@ A common theme of these problems is that they all centered around building data 
 
 
 From a cultural perspective, Bayer fosters a vibrant global data science community where we regularly organize events such as data science hackathons, meetups, technical workshops and more. Among all the data science activities, one of my favorite is the **Women in Data Science** organization here at Bayer. I was fortunate to be one of the founding members of the Bayer internal group, as well as an ambassador of the St. Louis WiDS chapter, a branch from the [original group](https://www.widsconference.org/) founded in Stanford University. I got to work with many excellent women leaders and allies on a series of internal and external initiatives that aim to support a more inclusive community for technical talents, such as giving talks at and organizing the [**St. Louis WiDS conference**](https://www.stlmlds.com/widsspeakers). Check out some of the [social media mentions](https://twitter.com/hashtag/widsstl?lang=en) posts about our work.
+
+## Enterprise Holdings <a name="enterprise"></a>
+
+<img src="../images/enterprise.jpeg" width="80%" height = '30%' align = 'center'>
+
+From a short while (Februrary to May 2020), I was recruited to work at Entrprise Holdings headquartered in St. Louis. My role there was to lead a small data science team in their Analytics Center of Excellence. The unfortunate health crisis has affected the car rental and fleet management company so severely that they had to take necessary and aggressive costs cutting steps. My time there was cut short as a result. Despite the brief tenure, it was a rewarding experience with many interesting projects and wonderful co-workers. 
+
+**What it's like to work there?**
+
+
+**Some of the  projects my team and I worked  on**
 
 
 ## Medical College of Wisconsin (Internship) <a name="mcw"></a>
