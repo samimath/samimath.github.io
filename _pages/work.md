@@ -31,10 +31,14 @@ img {
 ## Bayer Crop Science <a name="bayer-crop-science"></a>
 
 
+&nbsp;
+
 
 <img src="../images/corn_field.jpg" width="80%" height = '30%' align = 'center' caption = 'Walking through a corn field that had just been harvested'>
 
-##
+&nbsp;
+
+
 
 **What it's like to work there?**
 
@@ -51,21 +55,31 @@ I joined Bayer through Monsanto in 2015, which it acquired in late 2016. I began
 
 A common theme of these problems is that they all centered around building data science tools on the judicious use of geospatial and temporal observations from diverse sources, such as field history, weather, and imagery. I got to work with a highly competent team of technically-minded folks, designed research objectives, coded a lot in python and R, dabbled in different visualization tools, and most importantly, created decision-making tools that was impactful.
 
+&nbsp;
+
 <img src="../images/bayer_ds.png" width="80%" height = '30%' align = 'center'>
 
+
+&nbsp;
 
 
 From a cultural perspective, Bayer fosters a vibrant global data science community where we regularly organize events such as data science hackathons, meetups, technical workshops and more. Among all the data science activities, one of my favorite is the **Women in Data Science** organization here at Bayer. I was fortunate to be one of the founding members of the Bayer internal group, as well as an ambassador of the St. Louis WiDS chapter, a branch from the [original group](https://www.widsconference.org/) founded in Stanford University. I got to work with many excellent women leaders and allies on a series of internal and external initiatives that aim to support a more inclusive community for technical talents, such as giving talks at and organizing the [**St. Louis WiDS conference**](https://www.stlmlds.com/widsspeakers). Check out some of the [social media mentions](https://twitter.com/hashtag/widsstl?lang=en) posts about our work.
 
 [Back to Top](#toc)
 ## Enterprise Holdings <a name="enterprise"></a>
+&nbsp;
 
-<img src="../images/enterprise.jpeg" width="80%" height = '30%' align = 'center'>
+<img src="../images/car_rental.png" width="80%" height = '30%' align = 'center'>
 
-From a short while (Februrary to May 2020), I was recruited to work at Entrprise Holdings headquartered in St. Louis. My role there was to lead a small data science team in their Analytics Center of Excellence. The unfortunate health crisis has affected the car rental and fleet management company so severely that they had to take necessary and aggressive costs cutting steps. My time there was cut short as a result. Despite the brief tenure, it was a rewarding experience with many interesting projects and wonderful co-workers. 
+
+&nbsp;
+
+
+From a short while (Februrary to May 2020), I was recruited to work at Entrprise Holdings which is headquartered in St. Louis. My role there was to lead a small data science team in their Analytics Center of Excellence. The unfortunate global pandemic has affected the car rental and fleet management company so severely that in a matter of weeks, a large part of the organization had to be eliminated in order for the business to stay aflot. My time there was cut short as a result. Despite the brief tenure, it was a rewarding experience with many interesting projects and wonderful co-workers. 
 
 **What it's like to work there?**
 
+At the time Enterprise was undergoing significant digital transformation, so it was a  place  full of opportunities where data science and analytics can shine. According to this [google page](https://services.google.com/fh/files/misc/google_cloud_for_manufacturing_connected_vehicle.pdf) for example, vehicle-generated data will be worth $450 - $750B  by 2030.  As a company that has one of the  world's largest network of  rental cars (about [1.7 million](https://www.enterpriseholdings.com/en/total-transportation-solution.html) of them as of 2020), you can imagine the volumne of data and the value one would want to harness from it.  At the same tiime, the organization is very methododical about changes which means 
 
 **Some of the  projects my team and I worked  on**
 
