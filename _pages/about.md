@@ -21,4 +21,4 @@ header:
 
 My name is Sami, I'm currently working as a data scientist with training in math, and music. I am originally from Macau, a tiny seaside city in South Eastern China that is now known as Vegas in the East due to its large gambling and tourism industry. Historical fun fact : Macau is simultaneously [the first and the last European colony in Asia](https://www.chicagotribune.com/news/ct-xpm-1999-12-22-9912220059-story.html). In my spare time, I enjoy being in the outdoors, cooking, playing music, and learning new things.
 
-This is my persnoal website I'll occasionally share things about exploratory data analysis, machine learning, visualization, and also, cats.
+This is my personal website I'll occasionally share things about exploratory data analysis, machine learning, visualization, and also, cats.
