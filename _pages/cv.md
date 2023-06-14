@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Sami Cheong, Ph.D"
+title: "Sami Cheong, Ph.D"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,14 +20,17 @@ header:
 
 Professional Experience
 ======
-* Data Science Lead - Customer Analytics [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (July 2021 - Present)
+* Data Science Manager - Customer Analytics [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (July 2021 - Present)
     * Responsible for creating and implmenting global customer analytics strategies for Bayer crop science's commercial operations, including identifying and articulating value of analytics solutions with global impact on marketing, customer experience and product offering in NA, EMEA and LATAM.
     * Worked closely with regional and global leaders to define and implement data quality standards to enable development of sustainable and high quality analytics solutions.
     * Developed talent for a high-performing global data science team with members from NA, EMEA and LATAM.
     * Led engagements with external collaborators and vendors to develop capabilities that result in new value streams for BCS commercial.
 
 * Data Sciencee Technical Lead, [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (Nov 2019 - July 2021)
+* Data Sciencee Technical Lead, [Bayer Crop Science](https://www.bayer.com/en/crop-science-innovations-data-science.aspx) (Nov 2019 - July 2021)
 
+   *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting, growth stage modeling and planting and harvest optimization models, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
+   * Serves as a technical manager for a team of data scientists, with responsibilities in mapping technical skills of a team to the actual tasks, as well as workflow management, resource planning, and building our team's project portfolio.  
    *  Lead an analytics work stream to support data-driven decisions, such as yield forecasting, growth stage modeling and planting and harvest optimization models, to improve supply chain efficiency and sustainability for Bayer Crop Science’s row crop manufacturing.
    * Serves as a technical manager for a team of data scientists, with responsibilities in mapping technical skills of a team to the actual tasks, as well as workflow management, resource planning, and building our team's project portfolio.  
    *  Partner with a global team of domain experts and business leaders to define the content and roadmap of analytics strategy, and serve as a liaison between technical teams and business leaders to translate the value of analytics models and identify business use cases.
