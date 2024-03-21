@@ -26,6 +26,7 @@ img {
 3. [Teaching](#washu)
 4. [Medical College of Wisconsin (Internshp)](#mcw)
 5. [Volunteering with LaunchCode](#codergirl)
+6. [Hackathon](#mithack)
 
 
 ## Bayer Crop Science <a name="bayer-crop-science"></a>
@@ -126,3 +127,18 @@ The University of Wisconsin - Milwaukee (my alma mater) and the Medical College 
 Soon after I moved to St. Louis for my first job, I got to know some cool people in the data science community. One of them suggested I consider becoming a mentor for a new [CoderGirl](https://www.launchcode.org/codergirl) data science track that LaunchCode's is starting. I was very happy to be part of this thriving community full of passionate women working together to organize a learning community that benefits everyone. Since its start in 2016, the data science track has grown from a meet-up style gathering to a full-fledged program with a dedicated curriculum, project portfolio, many success stories and a dedicated group of volunteer mentors, and students. We covered key skills in building a data science career including data analysis, statistics, data wrangling, machine learning and data science best practice. A few of work friends and former students in the track have joined the mentoring as well, check out the curriculum at their [github org.](https://github.com/LaunchCoderGirlSTL)
 
 [Back to top](#toc)
+
+
+
+## Hackathons <a name="mithack"></a>
+
+
+<img src="../images/careowl_title.png" width="80%" height = '40%' align = 'center'>
+
+In the beginning of the pandemic, MIT initiated a series of hackathons with the goal of bringing together virtual teams from around the world to try to identify and solve meaningful problems that arise in our new world. I participated in one of these series (read more [here] (https://covid19challenge.mit.edu/btp2/) ). Our team consists of 6 strangers from US, Canada and Singapore across industry and academia. We got together over an intense 48 hours and put together a case for frontline health workers,  who are facing a lack of COVID-specific resources such as access to training and education.  Our objective at the time was to build a web and mobile platform for frontline health workers to access these vital information through gamification and peer-to-peer collaboration. This idea turned into a prototype called CareOwl, we have a demo page [here](https://careowl.github.io/) and a [nice blog post](https://medium.com/@lcdvirgo/our-untold-story-of-winning-the-mit-covid-19-challenge-hackathon-3954332c5208) written by fellow teammate Chip Dong Lim.  The CareOwl team ended up winning the hackathon, out of 40+ other teams. It was certainly a rewarding experience, more importantly I learned so much about the process of collaborative work and gotten a small glimpse of entrepreneurship. 
+
+[Back to top](#toc)
+
+
+
+
